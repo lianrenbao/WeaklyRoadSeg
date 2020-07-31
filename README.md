@@ -40,12 +40,12 @@ Exhibition of more predicted samples, in which the predicted road center points 
 <p>
 <table>
   <tr>
-    <td><img src='resources/011.jpg' width='3cm' /></td>
-    <td><img src='resources/012.jpg' width='3cm' /></td>
-    <td><img src='resources/013.jpg' width='3cm' /></td>
-    <td><img src='resources/014.jpg' width='3cm' /></td>
-    <td><img src='resources/015.jpg' width='3cm' /></td>
-    <td><img src='resources/016.jpg' width='3cm' /></td>
+    <td><img src='resources/011.jpg' width='150' /></td>
+    <td><img src='resources/012.jpg' width='150' /></td>
+    <td><img src='resources/013.jpg' width='150' /></td>
+    <td><img src='resources/014.jpg' width='150' /></td>
+    <td><img src='resources/015.jpg' width='150' /></td>
+    <td><img src='resources/016.jpg' width='150' /></td>
   </tr>
   <tr align='center'>
     <td>(a)</td>
