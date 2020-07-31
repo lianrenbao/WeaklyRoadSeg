@@ -40,12 +40,12 @@ Exhibition of more predicted samples, in which the predicted road center points 
 <p>
 <table>
   <tr>
-    <td><img src='resources/011.jpg' width='150' /></td>
-    <td><img src='resources/012.jpg' width='150' /></td>
-    <td><img src='resources/013.jpg' width='150' /></td>
-    <td><img src='resources/014.jpg' width='150' /></td>
-    <td><img src='resources/015.jpg' width='150' /></td>
-    <td><img src='resources/016.jpg' width='150' /></td>
+    <td><img src='raw/master/resources/011.jpg' width='150' /></td>
+    <td><img src='raw/master/resources/012.jpg' width='150' /></td>
+    <td><img src='raw/master/resources/013.jpg' width='150' /></td>
+    <td><img src='raw/master/resources/014.jpg' width='150' /></td>
+    <td><img src='raw/master/resources/015.jpg' width='150' /></td>
+    <td><img src='raw/master/resources/016.jpg' width='150' /></td>
   </tr>
   <tr align='center'>
     <td>(a)</td>
@@ -63,10 +63,10 @@ Exhibition of more predicted samples, in which the predicted road center points 
 
 # Output Visualization
 Exhibition of some road segmentation results on the Massachusetts Roads dataset.
-<p><img src='resources/image1_overlay.jpg' /></p>
-<p><img src='resources/image2_overlay.jpg' /></p>
-<p><img src='resources/image7_overlay.jpg' /></p>
-<p><img src='resources/image3_overlay.jpg' /></p>
-<p><img src='resources/image4_overlay.jpg' /></p>
-<p><img src='resources/image8_overlay.jpg' /></p>
+<p><img src='raw/master/resources/image1_overlay.jpg' /></p>
+<p><img src='raw/master/resources/image2_overlay.jpg' /></p>
+<p><img src='raw/master/resources/image7_overlay.jpg' /></p>
+<p><img src='raw/master/resources/image3_overlay.jpg' /></p>
+<p><img src='raw/master/resources/image4_overlay.jpg' /></p>
+<p><img src='raw/master/resources/image8_overlay.jpg' /></p>
 
