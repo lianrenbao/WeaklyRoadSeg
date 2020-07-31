@@ -67,6 +67,5 @@ Exhibition of some road segmentation results on the Massachusetts Roads dataset.
 <p><img src='resources/image2_overlay.jpg?raw=true' /></p>
 <p><img src='resources/image7_overlay.jpg?raw=true' /></p>
 <p><img src='resources/image3_overlay.jpg?raw=true' /></p>
-<p><img src='resources/image4_overlay.jpg?raw=true' /></p>
-<p><img src='resources/image8_overlay.jpg?raw=true' /></p>
+<p><img src='resources/image8-overlay.jpg?raw=true' /></p>
 
